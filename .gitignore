@@ -1,3 +1,5 @@
 *.pyc
 /*/*.pyc
 /mysite/mysites.db
+/mysite/polls/#models.py#
+/mysite/polls/.#models.py
