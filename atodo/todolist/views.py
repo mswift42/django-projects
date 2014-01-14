@@ -18,3 +18,6 @@ def status_two(request):
     return HttpResponse("Hallo report")
     
 # Create your views here.
+
+def index(request):
+    return HttpResponse("Some stuff for later.")
